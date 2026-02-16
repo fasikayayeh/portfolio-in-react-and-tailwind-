@@ -9,30 +9,57 @@ const project = [
    Image:"./projects/p2.png",
    tags:["React","Html"],
    demoUrl:"#",
-   githubUrl:"#",
+   githubUrl:"https://github.com/fasikayayeh/AI-Image-generator",
 },
 
 
 {
    id:2,
-   title:"Degree convertor",
+   title:"Degree Convertor",
    description:"recive from the user and and convert to another measurment",
    Image:"./projects/p3.png",
    tags:["javaScript","Html/css"],
    demoUrl:"#",
-   githubUrl:"#",
+   githubUrl:"https://github.com/fasikayayeh/Degree-Convertor",
 },
 
 
 
 {
    id:3,
-   title:"Car model",
+   title:"Car Model",
    description:"it show the car canpony theiir model",
    Image:"./projects/p1.png",
    tags:["React","Html/css"],
    demoUrl:"#",
-   githubUrl:"#",
+   githubUrl:"https://github.com/fasikayayeh/car-model",
+},
+{
+   id:4,
+   title:"To-Do-List",
+   description:"it show the day to day activity",
+   Image:"./projects/p6.png",
+   tags:["React","Html/css", "javascript"],
+   demoUrl:"#",
+   githubUrl:"https://github.com/fasikayayeh/to-do-list",
+},
+{
+   id:5,
+   title:"E-commerce",
+   description:"This is used to buy 'Asbeza'online from market ",
+   Image:"./projects/p5.png",
+   tags:["React","Html/css","Tailwind"],
+   demoUrl:"#",
+   githubUrl:"https://github.com/fasikayayeh/E-commerce",
+},
+{
+   id:6,
+   title:"Real Estate",
+   description:"it show the model of house to to live within family or itselfe",
+   Image:"./projects/p4.png",
+   tags:["React","Html/css","Tailwind"],
+   demoUrl:"#",
+   githubUrl:"https://github.com/fasikayayeh/Real-Estate",
 },
 ]
 
@@ -107,7 +134,7 @@ rel="noopener noreferrer"
 
                 </div>
                 <div className="text-center mt-12">
-                   <a className="cosmic-button w-fit flex items-center mx-auto gap-2 "href="">
+                   <a className="cosmic-button w-fit flex items-center mx-auto gap-2 "href="https://github.com/fasikayayeh">
                     Check My Github<ArrowRight size={16}/>
                    </a>
                 </div>
