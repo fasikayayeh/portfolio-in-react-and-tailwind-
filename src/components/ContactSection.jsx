@@ -66,13 +66,14 @@ export const ContactSection =()=>{
                     <div className="pt-8">
                         <h4 className="font-medium mb-4">Connect With Me </h4>
                      <div className="flex items-center space-x-4 justify-center">
-                        <a href="#" target="_blank">
+                        <a href="https://www.linkedin.com/in/fasika-yayeh-000a8935b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
                             <Linkedin/>
                         </a>
                         <a href="#" target="_blank">
                             <Twitter/>
                         </a>
-                        <a href="#" target="_blank">
+                        <a href="https://t.me/@Fiyor19
+" target="_blank">
                             <Send/>
                         </a>
                         <a href="#" target="_blank">
